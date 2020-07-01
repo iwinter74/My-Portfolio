@@ -8,7 +8,11 @@ body {
 header {
     background: #2f3554;
     color: white;
-    padding: 2em 0
+    padding: 2em 0;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%
 }
 header nav {
     padding-right: 1em;
