@@ -67,13 +67,15 @@ header li {
 #about article:first-of-type {
     color: #2f3554;
     display: flex;
-    padding-top: 15%;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20%;
     padding-bottom: 15%;
     padding-left: 5%;
     overflow: hidden;
 }
 #about article:first-of-type img {
-    width: 40%
+    width: 40%;
 }
 #about article:first-of-type div {
     display: flex;
